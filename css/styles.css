@@ -51,11 +51,11 @@ div{
 
 @media (min-width: 992px){
 	.col-lg-4{
-	    float: left;
-    	padding: 0 0.75rem;
-    	margin-left: auto;
-    	left: auto;
-    	right: auto;		
+		float: left;
+		padding: 0 0.75rem;
+		margin-left: auto;
+		left: auto;
+		right: auto;		
 		width:33%;
 	}
 }
@@ -64,10 +64,10 @@ div{
 	
 	.col-md-6, .col-md-12 {
 		float: left;
-	    padding: 0 0.75rem;
-    	margin-left: auto;
-    	left: auto;
-    	right: auto;		
+		padding: 0 0.75rem;
+		margin-left: auto;
+		left: auto;
+		right: auto;		
 	}
 	.col-md-6{
 		width:50%;
@@ -81,9 +81,9 @@ div{
 	.col-sm-12{
 		float:left;
 		width:100%;
-   		padding: 0 0.75rem;
-    	margin-left: auto;
-    	left: auto;
-    	right: auto;		
+		padding: 0 0.75rem;
+		margin-left: auto;
+		left: auto;
+		right: auto;		
 	}
 }
